@@ -274,9 +274,32 @@ form {
 
 /* //////////////////////// */
 
-body>main>h1 {
+
+/* body>main>h1 {
     font-family: 'Cairo', sans-serif;
 }
+
+body>main>form {
+    display: flex;
+    justify-content: space-between;
+}
+ */
+
+
+/* body>main {
+    padding: 30px;
+    margin: 20px;
+}
+
+body>main>form>div:nth-child(2) {
+    display: flex;
+    justify-content: space-between;
+}
+
+body>main>form>button {
+    padding: 10px;
+    margin: 60px;
+} */
 
 
 /* //////////////////// */
